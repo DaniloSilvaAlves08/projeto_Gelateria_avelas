@@ -1,0 +1,12 @@
+# Dependências que serão instaladas dentro do container
+node_modules
+
+# Pasta de build local (se existir)
+dist
+
+# Arquivos do Git
+.git
+.gitignore
+
+# Arquivos de ambiente
+.env
